@@ -1,0 +1,2 @@
+# CompMethods_Spring2024_LianysFeliciano
+Computational Methods course materials and lab assignments
